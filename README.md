@@ -5,7 +5,8 @@
 * 数据库 mysql  gorm 方式
 * bootstrap前端页面框架
 
-
 # 使用
-go mod tidy
+go run main.go
+
+访问：http://localhost:8080或者http://127.0.0.1:8080
 
